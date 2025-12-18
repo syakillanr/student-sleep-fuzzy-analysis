@@ -3,7 +3,7 @@ Project Title: Student Sleep Quality Analysis using Fuzzy Logic
 
 Objective: Developing a rule-based AI system to classify university students' sleep quality based on lifestyle factors like caffeine intake, screen time, and study hours. 
 
-
+Dataset: https://www.kaggle.com/datasets/arsalanjamal002/student-sleep-patterns 
 
 Overview
 This project applies a Fuzzy Logic Framework to a dataset of 500 students to translate subjective lifestyle data into actionable insights. While many AI models are "black boxes," this fuzzy inference system provides transparency through human-readable IF-THEN rules.
